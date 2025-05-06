@@ -1,1 +1,1 @@
-# ai-course-practice2
+# my-ai-learning
